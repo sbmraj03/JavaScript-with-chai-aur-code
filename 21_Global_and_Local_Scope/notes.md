@@ -1,0 +1,1 @@
+- scopes in browser env and in vs code env both are different
